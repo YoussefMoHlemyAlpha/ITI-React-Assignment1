@@ -5,10 +5,10 @@
   background: white;
   color: black;
   border-radius: 20px;
-  padding: 30px 20px;
-  width:65%;
-  margin: 100px auto 40px auto; 
-  margin-top: 96px;
+  padding: 10px 20px;
+  width:65%; 
+  margin-left: 260px; 
+  margin-top: 57px;
   flex-wrap: wrap;
 }
 
