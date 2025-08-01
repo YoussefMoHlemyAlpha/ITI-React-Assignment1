@@ -1,0 +1,42 @@
+.hero {
+  padding: 100px 20px;
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+  
+}
+
+.hero h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 55px;
+  margin-bottom: 20px;
+}
+
+.hero .highlight {
+  color: white;
+  font-weight: 700;
+}
+
+.hero p {
+  max-width: 500px;
+  margin: 0 auto 30px auto;
+  font-weight: 5;
+  font-size: 14px;
+}
+
+.btn {
+  padding: 10px 25px;
+  border-radius: 25px;
+  background: transparent;
+  border: 1.5px solid white;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #b91cff;
+  border-color: #b91cff;
+}

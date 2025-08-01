@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 50px;
+  font-family: 'Poppins', sans-serif;
+  align-items: center;
+  background-color: white;
+  font-size: 14px;
+  font-weight:normal;
+  color:black;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.highlight {
+  color:#672AB5;
+  font-weight: 700;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin:auto 21px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.nav-links li {
+  cursor: pointer;
+}
+
+.nav-links :hover{
+  color:#672AB5;
+}
